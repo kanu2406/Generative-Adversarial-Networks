@@ -1,9 +1,7 @@
 # Gaussian Mixture Generative Adversarial Networks (GM-GAN)
 
 ## Overview
-
-This repository contains the implementation and experiments for **Gaussian Mixture Generative Adversarial Networks (GM-GANs)**, an approach designed to improve the quality and diversity of generated samples by leveraging advanced latent space modeling techniques.Classic Generative Adversarial Networks (GANs) have key limitations, such as mode collapse, where the generator produces limited output varieties, leading to poor
-generalization and a lack of diversity. This makes GANs unreliable for tasks requiring broad variation. Additionally, classic GANs lack a mechanism to ensure generated
+This project was done as part of the Data Science course of M2 IASD. This repository contains the implementation and experiments for **Gaussian Mixture Generative Adversarial Networks (GM-GANs)**, an approach designed to improve the quality and diversity of generated samples by leveraging advanced latent space modeling techniques.Classic Generative Adversarial Networks (GANs) have key limitations, such as mode collapse, where the generator produces limited output varieties, leading to poor generalization and a lack of diversity. This makes GANs unreliable for tasks requiring broad variation. Additionally, classic GANs lack a mechanism to ensure generated
 samples align with specific data classes, hindering control and interpretation, especially in class-conditional generation tasks. These challenges have driven research
 into various GAN extensions aimed at overcoming these issues. This report summarizes our work on improving image generation quality and diversity in Generative
 Adversarial Networks (GANs) through advanced latent space modeling techniques.
